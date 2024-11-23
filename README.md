@@ -38,12 +38,12 @@ pip install requests
 Run the script from the command line with a GitHub username as an argument:
 
 ```bash
-python script.py <github-username>
+python github-activity.py <github-username>
 ```
 
 Example:
 ```bash
-python script.py octocat
+python github-activity.py kamranahmedse
 ```
 
 ### Output Format
